@@ -2,7 +2,7 @@
 
 A classical NLP and machine-learning project for predicting whether two questions express the same intent.
 
-**Author:** Larbi Foudi  
+**Author:** L & F 
 **Task:** Binary text-pair classification  
 **Target:** `1 = duplicate`, `0 = not duplicate`
 
