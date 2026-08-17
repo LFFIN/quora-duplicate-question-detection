@@ -1,0 +1,12 @@
+model,log_loss,accuracy,f1,auc
+Logistic Regression with chi2 features,0.386257,0.816431,0.744891,0.897012
+Linear SVM with chi2 features,0.387112,0.816407,0.744188,0.896412
+Logistic Regression,0.395057,0.814972,0.743595,0.895089
+Multinomial Naive Bayes,0.458474,0.786478,0.678138,0.866647
+Random Forest,0.480178,0.736946,0.643957,0.82159
+Logistic Regression with Word2Vec,0.48082,0.748943,0.641874,0.830152
+Logistic Regression with SVD features,0.49924,0.730528,0.620209,0.810607
+Gradient Boosting,0.502212,0.720065,0.612925,0.801134
+Dummy baseline,0.65853,0.630797,0.0,0.5
+Cosine similarity baseline,0.766426,0.627903,0.463336,0.676218
+Naive Bayes with Bag-of-Words,1.064931,0.792154,0.726072,0.872661

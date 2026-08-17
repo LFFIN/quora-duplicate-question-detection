@@ -1,0 +1,23 @@
+# Data
+data/quora.csv
+*.csv.zip
+
+# Model artifacts
+*.joblib
+*.pkl
+*.pickle
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
